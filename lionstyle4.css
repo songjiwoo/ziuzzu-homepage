@@ -1,0 +1,60 @@
+@font-face { font-family: 'SDKukdetopokki'; src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/SDKukdetopokki.woff')
+ format('woff'); font-weight: normal; font-style: normal; }
+.container{
+	width: 960px;
+	font-family: 'SDKukdetopokki';
+	text-align:center;
+	margin:auto;
+	font-size: 15px;
+
+	
+}
+.selfie{
+	display:grid;
+	grid-template-columns: 320px 320px 320px;
+	
+
+}
+
+
+nav div{
+	width: 100%;
+	height:70px;
+}
+header div{
+	height: 600px;
+	background-image: url("KakaoTalk_20180326_041842130.jpg");
+	background-size: 500px 500px;
+	background-repeat: no-repeat;
+}
+
+
+section div{
+	width: 100%;
+
+}
+img{
+	width:310px;
+	height:310px;
+
+
+}	
+
+
+
+
+
+footer div{
+	width: 100%;
+	font-size: 15px;
+}
+nav div h1{
+	display: inline;
+	margin-right: 450px;
+}
+nav div a{
+	font-size: 15px;
+}
+header div h2{
+	font-size: 60px;
+}
